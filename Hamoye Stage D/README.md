@@ -1,0 +1,2 @@
+# NOTE 'The notebook took too long to render'
+## If the notebook doesn't seem to open and shows "The notebook took too long to render", the notebook can be viewed [here](https://nbviewer.org/github/faryar251/Hamoye-Internship/blob/main/Hamoye%20Stage%20D/14770bef0541f000%20Stage%20D%20Kaggle.ipynb) instead.
